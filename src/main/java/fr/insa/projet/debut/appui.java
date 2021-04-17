@@ -11,4 +11,5 @@ package fr.insa.projet.debut;
  */
 public class appui {
     
+    salut c moi
 }
